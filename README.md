@@ -91,4 +91,4 @@ $ make test
 
 The `k2tf` converter is known to be used in the following projects:
 
-- [x0 Java Script Framework](https://github.com/WEBcodeX1/x0)
+- [x0 JavaScript Framework](https://github.com/WEBcodeX1/x0)
